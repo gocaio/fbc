@@ -1,6 +1,6 @@
 # Config
-BINARY=sct
-APPNAME=SCT
+BINARY=fbs
+APPNAME=FBS
 TARGET=all
 VERSION=`git tag --list | tail -1`
 
